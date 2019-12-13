@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Program27 StringManipulation", "Program27 StringManipulation\Program27 StringManipulation.vcxproj", "{1DEC3E5D-4AA3-4F79-A217-954F0D8F08B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DEC3E5D-4AA3-4F79-A217-954F0D8F08B1}.Debug|x64.ActiveCfg = Debug|x64
+		{1DEC3E5D-4AA3-4F79-A217-954F0D8F08B1}.Debug|x64.Build.0 = Debug|x64
+		{1DEC3E5D-4AA3-4F79-A217-954F0D8F08B1}.Debug|x86.ActiveCfg = Debug|Win32
+		{1DEC3E5D-4AA3-4F79-A217-954F0D8F08B1}.Debug|x86.Build.0 = Debug|Win32
+		{1DEC3E5D-4AA3-4F79-A217-954F0D8F08B1}.Release|x64.ActiveCfg = Release|x64
+		{1DEC3E5D-4AA3-4F79-A217-954F0D8F08B1}.Release|x64.Build.0 = Release|x64
+		{1DEC3E5D-4AA3-4F79-A217-954F0D8F08B1}.Release|x86.ActiveCfg = Release|Win32
+		{1DEC3E5D-4AA3-4F79-A217-954F0D8F08B1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F95186D-3194-4DA3-AEF0-8708007D1F44}
+	EndGlobalSection
+EndGlobal
